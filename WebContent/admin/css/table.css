@@ -1,0 +1,51 @@
+.chucnang {
+	width: 15%;
+}
+span.edit {
+    padding: 6px;
+    margin-right: 10px;
+    background: #30a5ff;
+    color: white;
+    border-radius: 5px;
+	margin-left: 5px;
+}
+
+span.edit i {padding-right: 5px;}
+
+span.delete {
+    padding: 6px;
+    margin-right: 10px;
+    background: rgba(255, 26, 0, 0.71);
+    color: white;
+    border-radius: 5px;
+}
+
+span.delete i {padding-right: 5px;}
+
+.panel-heading input{
+	color:#fff;
+	background-color: rgb(28, 171, 237);
+}
+.panel-heading input:hover{
+	color:black;
+}
+.cn input{
+	cursor: pointer;
+    padding-left: 2px;
+    margin-left: 5px;
+    width: 55px;
+    background-color: #30a5ff;
+    border-radius: 3px;
+	color:#fff;
+	height:33px;
+}
+.cn input:hover{
+		color: black;
+}
+.cn .xoa{
+	 background: rgba(255, 26, 0, 0.71);
+}
+.cn .xoacm{
+	margin-left: 40px;
+	background-color: red;
+}
